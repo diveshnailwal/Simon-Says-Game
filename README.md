@@ -1,1 +1,1 @@
-This is a code for Simon Says Game
+This is a code for Simon Says Game.
